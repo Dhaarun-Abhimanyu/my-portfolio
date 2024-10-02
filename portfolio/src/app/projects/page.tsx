@@ -4,7 +4,7 @@ import Link from "next/link";
 import { useEffect, useState } from "react";
 
 // Import your projects data
-const projects = require('../../public/projects.json'); // Adjust the path if needed
+const projects = require('../../../public/projects.json'); // Adjust the path if needed
 
 export default function Projects() {
   const [isVisible, setIsVisible] = useState(false);

@@ -1,17 +1,31 @@
 [
     {
       "id": 1,
-      "name": "Project One",
+      "name": "A discord chat & game bot",
       "image": "/path/to/image1.jpg",
-      "description": "Description of project one.",
-      "link": "/projects/1"
+      "description": "It is a bot for discord(made using java discord api) which can chat, play games & music, and much more...",
+      "link": "https://github.com/Dhaarun-Abhimanyu/my-portfolio"
     },
     {
       "id": 2,
-      "name": "Project Two",
+      "name": "History Revealed",
       "image": "/path/to/image2.jpg",
-      "description": "Description of project two.",
-      "link": "/projects/2"
+      "description": "History Revealed is a timeline-based project designed to display important historical events in a visually engaging format.",
+      "link": "https://github.com/Dhaarun-Abhimanyu/ideathon-team-OnO"
+    },
+    {
+      "id": 3,
+      "name": "PSG Assists",
+      "image": "/path/to/image1.jpg",
+      "description": "A website for the college, that features a classroom booking system, a book reservation system, a complaint portal, and much more...",
+      "link": "https://github.com/Dhaarun-Abhimanyu/GitGud_1426_NexTech"
+    },
+    {
+      "id": 4,
+      "name": "Task Manager",
+      "image": "/path/to/image1.jpg",
+      "description": "This is a simple project to manage tasks - to add, delete and update tasks and manage them",
+      "link": "https://github.com/Dhaarun-Abhimanyu/task-manager"
     }
   ]
   
